@@ -1,0 +1,6 @@
+{
+  "name": "AI文字起こしアプリ",
+  "description": "スマホで写真をアップロードすると、AIが画像内のテキストを文字起こしして表示するシンプルなアプリです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
